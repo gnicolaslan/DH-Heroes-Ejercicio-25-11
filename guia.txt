@@ -1,7 +1,0 @@
-creo app
-ejecuto npm init
-npm install express
-
-app.use(express.static('public')) (para acceder a los recursos estaticos (fotos)
-
-link "stylesheet" href= "/cc/styles.css"
